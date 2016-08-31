@@ -10,3 +10,6 @@
   * Action: Rus as Text Filter(Replace)
   * Save: Current file
 * Apply
+
+---
+Feel free to suggest updates
